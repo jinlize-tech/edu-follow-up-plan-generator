@@ -1,0 +1,24 @@
+{
+  "number": 19,
+  "product_id": "JLZ-EDU-SK-016",
+  "chinese_name": "客户跟进计划",
+  "english_name": "Follow Up Plan Generator",
+  "repository_name": "edu-follow-up-plan-generator",
+  "product_type": "Skill",
+  "category": "02 销售转化中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-follow-up-plan-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "客户阶段、历史沟通摘要、意向、下一步目标、可联系时间和合规频率",
+  "main_output": "分阶段跟进计划、触达主题、渠道建议、时间表、记录字段和停止条件",
+  "package_entries": [
+    "edu-follow-up-plan-generator/SKILL.md",
+    "edu-follow-up-plan-generator/references/DOMAIN_GUIDE.md",
+    "edu-follow-up-plan-generator/references/EXAMPLES.md",
+    "edu-follow-up-plan-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
