@@ -1,0 +1,8 @@
+{
+  "inputs": {
+    "客户阶段": "已提供并确认：客户阶段"
+  },
+  "data_status": "confirmed",
+  "conflicts": [],
+  "contains_sensitive_data": false
+}

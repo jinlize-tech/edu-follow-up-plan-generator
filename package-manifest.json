@@ -2,17 +2,29 @@
   "product_id": "JLZ-EDU-SK-016",
   "repository_name": "edu-follow-up-plan-generator",
   "product_type": "Skill",
-  "version": "1.0.0",
-  "package_path": "dist/edu-follow-up-plan-generator-v1.0.0.zip",
-  "sha256": "BA1A21A4E43E03D0FB59617D5AAFA0FCE8BC44AC0BD79C961DB17C4775F61D93",
-  "bytes": 4947,
+  "version": "1.0.1",
+  "package_path": "dist/edu-follow-up-plan-generator-v1.0.1.zip",
+  "sha256": "0A057FF6A295218D4156F802063EEB317EBCBBB6E395E9B2A851BEFBC8EB4244",
+  "bytes": 14748,
   "entries": [
     "edu-follow-up-plan-generator/SKILL.md",
     "edu-follow-up-plan-generator/references/DOMAIN_GUIDE.md",
     "edu-follow-up-plan-generator/references/EXAMPLES.md",
-    "edu-follow-up-plan-generator/templates/OUTPUT_TEMPLATE.md"
+    "edu-follow-up-plan-generator/templates/OUTPUT_TEMPLATE.md",
+    "edu-follow-up-plan-generator/README.md",
+    "edu-follow-up-plan-generator/USAGE.md",
+    "edu-follow-up-plan-generator/LICENSE",
+    "edu-follow-up-plan-generator/THIRD_PARTY_NOTICES.md",
+    "edu-follow-up-plan-generator/scripts/validate_input.js"
   ],
-  "built_at": "2026-11-06T21:40:13.3980922+08:00",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED"
+  "license": "Apache-2.0",
+  "license_included": true,
+  "license_sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30",
+  "third_party_notice_included": true,
+  "previous_package_path": "dist/edu-follow-up-plan-generator-v1.0.0.zip",
+  "previous_package_sha256": "BA1A21A4E43E03D0FB59617D5AAFA0FCE8BC44AC0BD79C961DB17C4775F61D93",
+  "built_at": "2026-11-07T09:10:24.1997372+08:00",
+  "status": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE"
 }
